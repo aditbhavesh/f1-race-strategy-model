@@ -1,0 +1,8 @@
+setting,stops_changed_vs_deterministic,matches_winner,races
+"baseline (window 10, rates as fitted)",0,18,21
+SC/VSC twice as frequent,3,15,21
+SC/VSC half as frequent,0,18,21
+stop saving 50% larger,2,16,21
+stop saving 50% smaller,0,18,21
+no reaction (window 0),0,18,21
+wider reaction (window 15),0,18,21

@@ -1,0 +1,4 @@
+test,races,correct,accuracy
+Deterministic simulator (no safety cars),21,18,0.8571428571428571
+"Safety-car aware, forecast (rates from other races)",21,18,0.8571428571428571
+"Safety-car aware, hindsight (real SC/VSC known)",21,18,0.8571428571428571

@@ -1,0 +1,169 @@
+Race,scenario,base_stops,new_stops,stops_unchanged,sequence_unchanged
+Abu Dhabi Grand Prix,deg x0.8,1,1,True,True
+Abu Dhabi Grand Prix,deg x1.2,1,1,True,True
+Abu Dhabi Grand Prix,pit loss -3s,1,1,True,True
+Abu Dhabi Grand Prix,pit loss +3s,1,1,True,True
+Abu Dhabi Grand Prix,soft/medium 0.3s faster,1,1,True,True
+Abu Dhabi Grand Prix,soft/medium 0.3s slower,1,1,True,True
+Abu Dhabi Grand Prix,tyre caps -15%,1,1,True,True
+Abu Dhabi Grand Prix,tyre caps +15%,1,1,True,True
+Australian Grand Prix,deg x0.8,2,2,True,True
+Australian Grand Prix,deg x1.2,2,2,True,True
+Australian Grand Prix,pit loss -3s,2,2,True,True
+Australian Grand Prix,pit loss +3s,2,2,True,True
+Australian Grand Prix,soft/medium 0.3s faster,2,2,True,False
+Australian Grand Prix,soft/medium 0.3s slower,2,2,True,True
+Australian Grand Prix,tyre caps -15%,2,2,True,True
+Australian Grand Prix,tyre caps +15%,2,1,False,False
+Austrian Grand Prix,deg x0.8,2,2,True,False
+Austrian Grand Prix,deg x1.2,2,2,True,False
+Austrian Grand Prix,pit loss -3s,2,2,True,True
+Austrian Grand Prix,pit loss +3s,2,2,True,True
+Austrian Grand Prix,soft/medium 0.3s faster,2,2,True,False
+Austrian Grand Prix,soft/medium 0.3s slower,2,2,True,True
+Austrian Grand Prix,tyre caps -15%,2,2,True,True
+Austrian Grand Prix,tyre caps +15%,2,2,True,True
+Azerbaijan Grand Prix,deg x0.8,1,1,True,True
+Azerbaijan Grand Prix,deg x1.2,1,1,True,True
+Azerbaijan Grand Prix,pit loss -3s,1,1,True,True
+Azerbaijan Grand Prix,pit loss +3s,1,1,True,True
+Azerbaijan Grand Prix,soft/medium 0.3s faster,1,1,True,True
+Azerbaijan Grand Prix,soft/medium 0.3s slower,1,1,True,True
+Azerbaijan Grand Prix,tyre caps -15%,1,1,True,True
+Azerbaijan Grand Prix,tyre caps +15%,1,1,True,True
+Bahrain Grand Prix,deg x0.8,2,1,False,False
+Bahrain Grand Prix,deg x1.2,2,2,True,True
+Bahrain Grand Prix,pit loss -3s,2,2,True,True
+Bahrain Grand Prix,pit loss +3s,2,1,False,False
+Bahrain Grand Prix,soft/medium 0.3s faster,2,2,True,False
+Bahrain Grand Prix,soft/medium 0.3s slower,2,2,True,False
+Bahrain Grand Prix,tyre caps -15%,2,2,True,True
+Bahrain Grand Prix,tyre caps +15%,2,2,True,True
+Belgian Grand Prix,deg x0.8,1,1,True,True
+Belgian Grand Prix,deg x1.2,1,1,True,True
+Belgian Grand Prix,pit loss -3s,1,1,True,True
+Belgian Grand Prix,pit loss +3s,1,1,True,True
+Belgian Grand Prix,soft/medium 0.3s faster,1,1,True,False
+Belgian Grand Prix,soft/medium 0.3s slower,1,1,True,True
+Belgian Grand Prix,tyre caps -15%,1,1,True,True
+Belgian Grand Prix,tyre caps +15%,1,1,True,True
+Chinese Grand Prix,deg x0.8,2,2,True,True
+Chinese Grand Prix,deg x1.2,2,2,True,True
+Chinese Grand Prix,pit loss -3s,2,2,True,True
+Chinese Grand Prix,pit loss +3s,2,2,True,True
+Chinese Grand Prix,soft/medium 0.3s faster,2,2,True,False
+Chinese Grand Prix,soft/medium 0.3s slower,2,2,True,False
+Chinese Grand Prix,tyre caps -15%,2,2,True,True
+Chinese Grand Prix,tyre caps +15%,2,2,True,True
+Dutch Grand Prix,deg x0.8,1,1,True,True
+Dutch Grand Prix,deg x1.2,1,2,False,False
+Dutch Grand Prix,pit loss -3s,1,1,True,True
+Dutch Grand Prix,pit loss +3s,1,1,True,True
+Dutch Grand Prix,soft/medium 0.3s faster,1,2,False,False
+Dutch Grand Prix,soft/medium 0.3s slower,1,1,True,True
+Dutch Grand Prix,tyre caps -15%,1,2,False,False
+Dutch Grand Prix,tyre caps +15%,1,1,True,True
+Emilia Romagna Grand Prix,deg x0.8,1,1,True,True
+Emilia Romagna Grand Prix,deg x1.2,1,1,True,True
+Emilia Romagna Grand Prix,pit loss -3s,1,1,True,True
+Emilia Romagna Grand Prix,pit loss +3s,1,1,True,True
+Emilia Romagna Grand Prix,soft/medium 0.3s faster,1,1,True,True
+Emilia Romagna Grand Prix,soft/medium 0.3s slower,1,1,True,True
+Emilia Romagna Grand Prix,tyre caps -15%,1,1,True,True
+Emilia Romagna Grand Prix,tyre caps +15%,1,1,True,True
+Hungarian Grand Prix,deg x0.8,2,2,True,False
+Hungarian Grand Prix,deg x1.2,2,2,True,True
+Hungarian Grand Prix,pit loss -3s,2,2,True,True
+Hungarian Grand Prix,pit loss +3s,2,2,True,True
+Hungarian Grand Prix,soft/medium 0.3s faster,2,2,True,False
+Hungarian Grand Prix,soft/medium 0.3s slower,2,2,True,False
+Hungarian Grand Prix,tyre caps -15%,2,2,True,True
+Hungarian Grand Prix,tyre caps +15%,2,2,True,False
+Italian Grand Prix,deg x0.8,1,1,True,True
+Italian Grand Prix,deg x1.2,1,1,True,True
+Italian Grand Prix,pit loss -3s,1,1,True,True
+Italian Grand Prix,pit loss +3s,1,1,True,True
+Italian Grand Prix,soft/medium 0.3s faster,1,1,True,True
+Italian Grand Prix,soft/medium 0.3s slower,1,1,True,True
+Italian Grand Prix,tyre caps -15%,1,1,True,False
+Italian Grand Prix,tyre caps +15%,1,1,True,True
+Japanese Grand Prix,deg x0.8,2,2,True,False
+Japanese Grand Prix,deg x1.2,2,2,True,True
+Japanese Grand Prix,pit loss -3s,2,2,True,True
+Japanese Grand Prix,pit loss +3s,2,2,True,True
+Japanese Grand Prix,soft/medium 0.3s faster,2,2,True,False
+Japanese Grand Prix,soft/medium 0.3s slower,2,2,True,False
+Japanese Grand Prix,tyre caps -15%,2,2,True,True
+Japanese Grand Prix,tyre caps +15%,2,2,True,True
+Las Vegas Grand Prix,deg x0.8,1,1,True,True
+Las Vegas Grand Prix,deg x1.2,1,1,True,True
+Las Vegas Grand Prix,pit loss -3s,1,1,True,True
+Las Vegas Grand Prix,pit loss +3s,1,1,True,True
+Las Vegas Grand Prix,soft/medium 0.3s faster,1,2,False,False
+Las Vegas Grand Prix,soft/medium 0.3s slower,1,1,True,True
+Las Vegas Grand Prix,tyre caps -15%,1,2,False,False
+Las Vegas Grand Prix,tyre caps +15%,1,1,True,True
+Mexico City Grand Prix,deg x0.8,1,1,True,True
+Mexico City Grand Prix,deg x1.2,1,2,False,False
+Mexico City Grand Prix,pit loss -3s,1,1,True,True
+Mexico City Grand Prix,pit loss +3s,1,1,True,True
+Mexico City Grand Prix,soft/medium 0.3s faster,1,1,True,True
+Mexico City Grand Prix,soft/medium 0.3s slower,1,1,True,True
+Mexico City Grand Prix,tyre caps -15%,1,2,False,False
+Mexico City Grand Prix,tyre caps +15%,1,1,True,True
+Miami Grand Prix,deg x0.8,1,1,True,True
+Miami Grand Prix,deg x1.2,1,1,True,True
+Miami Grand Prix,pit loss -3s,1,1,True,True
+Miami Grand Prix,pit loss +3s,1,1,True,True
+Miami Grand Prix,soft/medium 0.3s faster,1,1,True,True
+Miami Grand Prix,soft/medium 0.3s slower,1,1,True,True
+Miami Grand Prix,tyre caps -15%,1,1,True,True
+Miami Grand Prix,tyre caps +15%,1,1,True,True
+Monaco Grand Prix,deg x0.8,1,1,True,True
+Monaco Grand Prix,deg x1.2,1,1,True,True
+Monaco Grand Prix,pit loss -3s,1,1,True,True
+Monaco Grand Prix,pit loss +3s,1,1,True,True
+Monaco Grand Prix,soft/medium 0.3s faster,1,1,True,True
+Monaco Grand Prix,soft/medium 0.3s slower,1,1,True,True
+Monaco Grand Prix,tyre caps -15%,1,1,True,True
+Monaco Grand Prix,tyre caps +15%,1,1,True,True
+Qatar Grand Prix,deg x0.8,1,1,True,True
+Qatar Grand Prix,deg x1.2,1,1,True,True
+Qatar Grand Prix,pit loss -3s,1,1,True,True
+Qatar Grand Prix,pit loss +3s,1,1,True,True
+Qatar Grand Prix,soft/medium 0.3s faster,1,1,True,True
+Qatar Grand Prix,soft/medium 0.3s slower,1,1,True,True
+Qatar Grand Prix,tyre caps -15%,1,2,False,False
+Qatar Grand Prix,tyre caps +15%,1,1,True,True
+Saudi Arabian Grand Prix,deg x0.8,1,1,True,True
+Saudi Arabian Grand Prix,deg x1.2,1,1,True,True
+Saudi Arabian Grand Prix,pit loss -3s,1,1,True,True
+Saudi Arabian Grand Prix,pit loss +3s,1,1,True,True
+Saudi Arabian Grand Prix,soft/medium 0.3s faster,1,1,True,False
+Saudi Arabian Grand Prix,soft/medium 0.3s slower,1,1,True,True
+Saudi Arabian Grand Prix,tyre caps -15%,1,1,True,True
+Saudi Arabian Grand Prix,tyre caps +15%,1,1,True,True
+Singapore Grand Prix,deg x0.8,1,1,True,True
+Singapore Grand Prix,deg x1.2,1,1,True,True
+Singapore Grand Prix,pit loss -3s,1,1,True,True
+Singapore Grand Prix,pit loss +3s,1,1,True,True
+Singapore Grand Prix,soft/medium 0.3s faster,1,1,True,True
+Singapore Grand Prix,soft/medium 0.3s slower,1,1,True,False
+Singapore Grand Prix,tyre caps -15%,1,2,False,False
+Singapore Grand Prix,tyre caps +15%,1,1,True,True
+Spanish Grand Prix,deg x0.8,2,2,True,True
+Spanish Grand Prix,deg x1.2,2,2,True,True
+Spanish Grand Prix,pit loss -3s,2,2,True,True
+Spanish Grand Prix,pit loss +3s,2,2,True,True
+Spanish Grand Prix,soft/medium 0.3s faster,2,2,True,True
+Spanish Grand Prix,soft/medium 0.3s slower,2,2,True,False
+Spanish Grand Prix,tyre caps -15%,2,2,True,True
+Spanish Grand Prix,tyre caps +15%,2,2,True,True
+United States Grand Prix,deg x0.8,1,1,True,True
+United States Grand Prix,deg x1.2,1,1,True,True
+United States Grand Prix,pit loss -3s,1,1,True,True
+United States Grand Prix,pit loss +3s,1,1,True,True
+United States Grand Prix,soft/medium 0.3s faster,1,1,True,True
+United States Grand Prix,soft/medium 0.3s slower,1,1,True,True
+United States Grand Prix,tyre caps -15%,1,1,True,True
+United States Grand Prix,tyre caps +15%,1,1,True,True

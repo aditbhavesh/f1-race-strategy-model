@@ -1,0 +1,5 @@
+test,races,correct,accuracy
+Always predict 1 stop (baseline),21,12,0.5714285714285714
+"Simulator, blind (leave-one-race-out)",21,11,0.5238095238095238
+"Simulator, calibrated tyre data + blind stint caps",21,15,0.7142857142857143
+"Simulator, fully calibrated to the weekend",21,18,0.8571428571428571

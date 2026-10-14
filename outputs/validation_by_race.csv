@@ -1,0 +1,22 @@
+Race,laps,winner,winner_stops,winner_sequence,calibrated_stops,calibrated_sequence,calibrated_blindcaps_stops,calibrated_blindcaps_sequence,blind_stops,blind_sequence,neutralised_share,calibrated_match,blind_match,calibrated_blindcaps_match,always_one_stop_match
+Abu Dhabi Grand Prix,58,NOR,1,M-H,1,M-H,1,M-H,1,M-H,0.03671497584541063,True,True,True,True
+Australian Grand Prix,58,SAI,2,M-H-H,2,M-H-H,1,M-H,1,M-H,0.056112224448897796,True,False,False,False
+Austrian Grand Prix,71,RUS,2,M-M-H,2,M-H-H,2,M-H-H,2,M-M-H,0.0199288256227758,True,True,True,False
+Azerbaijan Grand Prix,51,PIA,1,M-H,1,M-H,1,M-H,1,M-H,0.03391572456320658,True,True,True,True
+Bahrain Grand Prix,57,VER,2,S-H-S,2,M-M-S,2,M-M-S,1,M-H,0.0,True,False,True,False
+Belgian Grand Prix,44,RUS,1,M-H,1,S-H,1,S-H,1,M-H,0.0,True,True,True,True
+Chinese Grand Prix,56,VER,2,M-H-H,2,S-S-H,2,S-S-H,1,M-H,0.19767441860465115,True,False,True,False
+Dutch Grand Prix,72,NOR,1,M-H,1,M-H,1,M-H,2,M-M-H,0.0,True,False,True,True
+Emilia Romagna Grand Prix,63,VER,1,M-H,1,M-H,1,M-H,1,M-H,0.0,True,True,True,True
+Hungarian Grand Prix,70,PIA,2,M-H-M,2,M-M-H,2,S-M-M,2,M-M-H,0.0,True,True,True,False
+Italian Grand Prix,53,LEC,1,M-H,1,M-H,1,M-H,1,M-H,0.0,True,True,True,True
+Japanese Grand Prix,53,VER,3,M-M-M-H,2,M-M-H,2,M-M-H,1,M-H,0.022050716648291068,False,False,False,False
+Las Vegas Grand Prix,50,RUS,2,M-H-H,1,S-H,1,S-H,1,M-H,0.0,False,False,False,False
+Mexico City Grand Prix,71,SAI,1,M-H,1,M-H,1,M-H,2,M-M-H,0.09053497942386832,True,False,True,True
+Miami Grand Prix,57,NOR,1,M-H,1,M-H,1,M-H,1,M-H,0.11701170117011701,True,True,True,True
+Monaco Grand Prix,78,LEC,1,M-H,1,M-H,2,M-M-H,2,M-M-H,0.02910266774454325,True,False,False,True
+Qatar Grand Prix,57,VER,3,M-H-H-H,1,M-H,1,M-H,1,M-H,0.2205726405090138,False,False,False,False
+Saudi Arabian Grand Prix,50,VER,1,M-H,1,M-H,1,M-H,1,M-H,0.06104328523862375,True,True,True,True
+Singapore Grand Prix,62,NOR,1,M-H,1,S-M,2,S-S-M,1,M-H,0.0,True,True,False,True
+Spanish Grand Prix,66,VER,2,S-M-S,2,S-M-M,2,S-M-M,1,M-H,0.0,True,False,True,False
+United States Grand Prix,56,LEC,1,M-H,1,M-H,1,M-H,1,M-H,0.05476864966949953,True,True,True,True

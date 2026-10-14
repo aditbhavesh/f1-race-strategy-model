@@ -1,0 +1,59 @@
+Race,laps,stops,delta_s,is_best,strategy,pit_laps
+Abu Dhabi Grand Prix,58,1,0.0,True,M1-24 | H25-58,24
+Abu Dhabi Grand Prix,58,2,6.827926108089173,False,H1-21 | H22-42 | M43-58,"21,42"
+Abu Dhabi Grand Prix,58,3,20.893130208970135,False,M1-14 | M15-28 | M29-42 | H43-58,"14,28,42"
+Australian Grand Prix,58,2,0.0,True,M1-16 | H17-37 | H38-58,"16,37"
+Australian Grand Prix,58,3,13.941892046693468,False,M1-12 | H13-27 | H28-42 | H43-58,"12,27,42"
+Austrian Grand Prix,71,2,0.0,True,M1-21 | H22-46 | H47-71,"21,46"
+Austrian Grand Prix,71,3,7.001654076662078,False,M1-17 | M18-34 | H35-54 | M55-71,"17,34,54"
+Azerbaijan Grand Prix,51,1,0.0,True,M1-18 | H19-51,18
+Azerbaijan Grand Prix,51,2,11.238468975182599,False,M1-17 | H18-35 | M36-51,"17,35"
+Azerbaijan Grand Prix,51,3,28.151952140840372,False,M1-12 | M13-25 | M26-38 | H39-51,"12,25,38"
+Bahrain Grand Prix,57,1,2.898077465292573,False,M1-37 | H38-57,37
+Bahrain Grand Prix,57,2,0.0,True,M1-23 | M24-46 | S47-57,"23,46"
+Bahrain Grand Prix,57,3,12.09787145387692,False,M1-16 | M17-32 | S33-40 | M41-57,"16,32,40"
+Belgian Grand Prix,44,1,0.0,True,S1-25 | H26-44,25
+Belgian Grand Prix,44,2,9.299715195247288,False,S1-16 | H17-27 | S28-44,"16,27"
+Belgian Grand Prix,44,3,24.024393448693516,False,S1-12 | S13-24 | S25-36 | H37-44,"12,24,36"
+Chinese Grand Prix,56,1,21.948073178529256,False,M1-25 | H26-56,25
+Chinese Grand Prix,56,2,0.0,True,S1-19 | S20-38 | H39-56,"19,38"
+Chinese Grand Prix,56,3,8.872296324150199,False,S1-14 | S15-29 | S30-44 | H45-56,"14,29,44"
+Dutch Grand Prix,72,1,0.0,True,M1-31 | H32-72,31
+Dutch Grand Prix,72,2,3.3377653937142497,False,M1-22 | H23-47 | H48-72,"22,47"
+Dutch Grand Prix,72,3,16.915184437344564,False,M1-16 | H17-34 | H35-53 | H54-72,"16,34,53"
+Emilia Romagna Grand Prix,63,1,0.0,True,M1-28 | H29-63,28
+Emilia Romagna Grand Prix,63,2,7.616411508923633,False,M1-19 | H20-41 | H42-63,"19,41"
+Emilia Romagna Grand Prix,63,3,24.008142707421428,False,M1-15 | M16-30 | M31-45 | H46-63,"15,30,45"
+Hungarian Grand Prix,70,2,0.0,True,M1-24 | M25-49 | H50-70,"24,49"
+Hungarian Grand Prix,70,3,5.279090387703604,False,M1-18 | M19-36 | M37-55 | S56-70,"18,36,55"
+Italian Grand Prix,53,1,0.0,True,M1-19 | H20-53,19
+Italian Grand Prix,53,2,8.995429827256359,False,M1-19 | M20-38 | H39-53,"19,38"
+Italian Grand Prix,53,3,28.73465889813565,False,M1-14 | M15-28 | H29-39 | M40-53,"14,28,39"
+Japanese Grand Prix,53,2,0.0,True,M1-18 | M19-36 | H37-53,"18,36"
+Japanese Grand Prix,53,3,8.701058090125088,False,S1-11 | M12-25 | M26-39 | M40-53,"11,25,39"
+Las Vegas Grand Prix,50,1,0.0,True,S1-23 | H24-50,23
+Las Vegas Grand Prix,50,2,5.559371382014149,False,S1-16 | S17-32 | H33-50,"16,32"
+Las Vegas Grand Prix,50,3,18.89614697103181,False,S1-12 | S13-24 | S25-37 | H38-50,"12,24,37"
+Mexico City Grand Prix,71,1,0.0,True,M1-25 | H26-71,25
+Mexico City Grand Prix,71,2,3.7695794028540917,False,M1-16 | H17-43 | H44-71,"16,43"
+Mexico City Grand Prix,71,3,18.779615892272417,False,M1-12 | H13-31 | H32-51 | H52-71,"12,31,51"
+Miami Grand Prix,57,1,0.0,True,M1-33 | H34-57,33
+Miami Grand Prix,57,2,15.291492594760157,False,M1-21 | M22-42 | H43-57,"21,42"
+Miami Grand Prix,57,3,33.72472009121361,False,M1-15 | M16-31 | H32-41 | M42-57,"15,31,41"
+Monaco Grand Prix,78,1,0.0,True,M1-51 | H52-78,51
+Monaco Grand Prix,78,2,8.697220607490827,False,M1-31 | M32-62 | H63-78,"31,62"
+Monaco Grand Prix,78,3,24.962084969027273,False,M1-22 | M23-44 | M45-67 | H68-78,"22,44,67"
+Qatar Grand Prix,57,1,0.0,True,M1-35 | H36-57,35
+Qatar Grand Prix,57,2,21.591858498091316,False,M1-18 | M19-52 | H53-57,"18,52"
+Qatar Grand Prix,57,3,45.97572213445494,False,M1-6 | H7-11 | M12-25 | M26-57,"6,11,25"
+Saudi Arabian Grand Prix,50,1,0.0,True,M1-28 | H29-50,28
+Saudi Arabian Grand Prix,50,2,8.469553776079806,False,S1-10 | M11-30 | M31-50,"10,30"
+Saudi Arabian Grand Prix,50,3,23.409018716180917,False,S1-7 | M8-21 | M22-35 | M36-50,"7,21,35"
+Singapore Grand Prix,62,1,0.0,True,S1-30 | M31-62,30
+Singapore Grand Prix,62,2,4.480302969373298,False,S1-23 | S24-46 | M47-62,"23,46"
+Singapore Grand Prix,62,3,22.218824720511947,False,S1-17 | S18-34 | S35-51 | M52-62,"17,34,51"
+Spanish Grand Prix,66,2,0.0,True,S1-20 | M21-43 | M44-66,"20,43"
+Spanish Grand Prix,66,3,6.942072983891222,False,S1-15 | M16-32 | M33-49 | M50-66,"15,32,49"
+United States Grand Prix,56,1,0.0,True,M1-29 | H30-56,29
+United States Grand Prix,56,2,10.599693385869486,False,M1-19 | H20-36 | M37-56,"19,36"
+United States Grand Prix,56,3,26.823879688885683,False,M1-15 | M16-30 | H31-41 | M42-56,"15,30,41"
