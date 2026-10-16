@@ -1,4 +1,4 @@
-# F1 Race Pace and Pit-Stop Strategy Model (2024 season)
+# Formula 1 Race Strategy & Simulation Suite (2024 season)
 
 Can lap-time data tell you how many times a driver should pit, and when? This project takes every race lap of the 2024 Formula 1 season, measures how tyres wear and what a pit stop costs, and uses that to find the fastest race strategy for each circuit. It then checks the answer against what race winners actually did, including where it fails.
 
